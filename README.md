@@ -12,7 +12,7 @@ I'm a passionate and curious developer in the making, diving deep into the world
 
 🎨 In my free time, I enjoy exploring **Graphic Design** and watch short, insightful tutorials on web development — from building clean HTML structures to using advanced elements and tags.
 
-My goal is to become a full-stack developer while keeping a strong creative edge through design.
+My goal is to become a full-stack developer
 ---
 
 🔧 Skills I'm Developing
